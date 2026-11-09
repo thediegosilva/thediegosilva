@@ -80,7 +80,7 @@ class DiegoSilva:
     </td>
   </tr>
   <tr>
-    <td><b>🎨 Design Tools</b></td>
+    <td><b> Design Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark" alt="Adobe Photoshop, Adobe Illustrator, Figma" /></td>
   </tr>
 </table>
