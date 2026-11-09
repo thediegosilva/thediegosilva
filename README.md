@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/diego-silva-56055742a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thediegosilva@engineer.com"><img alt="Email" src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 <a href="https://x.com/thediegofsilva"><img alt="X" src="https://img.shields.io/badge/@thediegofsilva-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<img alt="Open to remote roles" src="https://img.shields.io/badge/Open_to_Remote_Roles-2EA043?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/diego-silva-56055742a"><img alt="Open to remote roles" src="https://img.shields.io/badge/Open_to_Remote_Roles-2EA043?style=for-the-badge" /></a>
 
 </div>
 
